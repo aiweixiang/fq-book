@@ -10,6 +10,7 @@
   * [快速入手](qintro/quickstart.md)
 
 * 方法论
+  * [翻墙方法论技术文档](methodology.md)
   * [获取梯子上网的方式](method/get-method.md)
   * [获取国外手机号码](fkca/esim.md)
   * [开通虚拟信用卡摸索历程](fkca/mastercard.md)
